@@ -83,6 +83,7 @@ MBB_Ignore = {
 	[26] = "TimeManagerClockButton",
 	[27] = "GameTimeFrame",
 	[28] = "DA_Minimap",
+	[29] = "QueueStatusMinimapButton",
 };
 
 MBB_IgnoreSize = {
